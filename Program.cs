@@ -1,24 +1,33 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Bai59
+namespace Bai1
 {
     class Program
     {
         static void Main(string[] args)
         {
-            int n;
-
-            string[] can = { "Canh" , "Tan" , "Nham" , "Quy", "Giap", "At", "Binh", "Dinh", "Mau", "Ky" };
-            string[] chi = {"Than", "Dau", "Tuat", "Hoi", "Ti", "Suu","Dan", "Meo", "Thin", "Ty", "Ngo", "Mui"};
-                 Console.WriteLine( "Nhap nam: " );
-            n = Int32.Parse(Console.ReadLine());
-            Console.WriteLine( "{0} - {1} {2}\n" , n, can[n % 10], chi[n % 12] );
-            Console.WriteLine( "{0} - {1} {2}\n", n + 60, can[n % 10], chi[n % 12] );
-            Console.ReadLine();
+            Console.OutputEncoding = Encoding.UTF8; //lệnh viết tiếng việt trong c#
+            Console.Write("Nhập một số bất kỳ: ");
+            string so = Console.ReadLine();
+            int sobk = Convert.ToInt32(so);
+            if(sobk > 0)
+            {
+                Console.Write("só nguyên dương");
+            }
+            else
+            if(sobk == 0)
+            {
+                Console.Write("số 0");
+            }
+            else
+            {
+                Console.Write("số nguyên âm");
+            }
+            Console.ReadKey();
         }
     }
 }
