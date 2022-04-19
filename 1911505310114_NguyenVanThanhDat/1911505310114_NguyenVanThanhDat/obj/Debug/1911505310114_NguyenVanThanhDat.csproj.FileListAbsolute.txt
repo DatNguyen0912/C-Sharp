@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\1911505310114_NguyenVanThanhDat\1911505310114_NguyenVanThanhDat\bin\Debug\1911505310114_NguyenVanThanhDat.exe.config
+C:\Users\DELL\source\repos\1911505310114_NguyenVanThanhDat\1911505310114_NguyenVanThanhDat\bin\Debug\1911505310114_NguyenVanThanhDat.exe
+C:\Users\DELL\source\repos\1911505310114_NguyenVanThanhDat\1911505310114_NguyenVanThanhDat\bin\Debug\1911505310114_NguyenVanThanhDat.pdb
+C:\Users\DELL\source\repos\1911505310114_NguyenVanThanhDat\1911505310114_NguyenVanThanhDat\obj\Debug\1911505310114_NguyenVanThanhDat.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\1911505310114_NguyenVanThanhDat\1911505310114_NguyenVanThanhDat\obj\Debug\1911505310114_NguyenVanThanhDat.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\1911505310114_NguyenVanThanhDat\1911505310114_NguyenVanThanhDat\obj\Debug\1911505310114_NguyenVanThanhDat.exe
+C:\Users\DELL\source\repos\1911505310114_NguyenVanThanhDat\1911505310114_NguyenVanThanhDat\obj\Debug\1911505310114_NguyenVanThanhDat.pdb
