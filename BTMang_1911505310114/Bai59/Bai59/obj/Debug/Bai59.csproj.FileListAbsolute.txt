@@ -1,0 +1,7 @@
+D:\c#\BaiSo3\Bai59\Bai59\obj\Debug\Bai59.csprojAssemblyReference.cache
+D:\c#\BaiSo3\Bai59\Bai59\obj\Debug\Bai59.csproj.CoreCompileInputs.cache
+D:\c#\BaiSo3\Bai59\Bai59\bin\Debug\Bai59.exe.config
+D:\c#\BaiSo3\Bai59\Bai59\bin\Debug\Bai59.exe
+D:\c#\BaiSo3\Bai59\Bai59\bin\Debug\Bai59.pdb
+D:\c#\BaiSo3\Bai59\Bai59\obj\Debug\Bai59.exe
+D:\c#\BaiSo3\Bai59\Bai59\obj\Debug\Bai59.pdb
