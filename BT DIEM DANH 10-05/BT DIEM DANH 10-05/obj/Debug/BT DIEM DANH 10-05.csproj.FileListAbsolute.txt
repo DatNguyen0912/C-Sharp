@@ -1,7 +1,0 @@
-C:\Users\DELL\source\repos\BT DIEM DANH 10-05\BT DIEM DANH 10-05\obj\Debug\BT DIEM DANH 10-05.csprojAssemblyReference.cache
-C:\Users\DELL\source\repos\BT DIEM DANH 10-05\BT DIEM DANH 10-05\obj\Debug\BT DIEM DANH 10-05.csproj.CoreCompileInputs.cache
-C:\Users\DELL\source\repos\BT DIEM DANH 10-05\BT DIEM DANH 10-05\bin\Debug\BT DIEM DANH 10-05.exe.config
-C:\Users\DELL\source\repos\BT DIEM DANH 10-05\BT DIEM DANH 10-05\bin\Debug\BT DIEM DANH 10-05.exe
-C:\Users\DELL\source\repos\BT DIEM DANH 10-05\BT DIEM DANH 10-05\bin\Debug\BT DIEM DANH 10-05.pdb
-C:\Users\DELL\source\repos\BT DIEM DANH 10-05\BT DIEM DANH 10-05\obj\Debug\BT DIEM DANH 10-05.exe
-C:\Users\DELL\source\repos\BT DIEM DANH 10-05\BT DIEM DANH 10-05\obj\Debug\BT DIEM DANH 10-05.pdb
